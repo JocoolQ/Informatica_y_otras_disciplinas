@@ -8223,7 +8223,7 @@ webvowl.app =
 	  var showLoadingDetails = false;
 	  var visibilityStatus = true;
 	  
-	  var DEFAULT_JSON_NAME = "infprmatica"; // This file is loaded by default
+	  var DEFAULT_JSON_NAME = "informatica"; // This file is loaded by default
 	  var conversion_sessionId;
 	  
 	  /** variable defs **/
