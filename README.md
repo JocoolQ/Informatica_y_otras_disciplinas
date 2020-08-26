@@ -4,7 +4,9 @@ Herramienta para la visualización de un esquema ontológico que representa la r
 # Información
 
 Universidad Distrital Francisco José de Caldas
+
 Maestría en Ciencias de la Información y las Comunicaciones
+
 Jonathan Steven Capera Quintana - 20202495005
 
 ## Herramientas
