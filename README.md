@@ -20,13 +20,11 @@ WebVOWL es una aplicación web para la visualización interactiva de ontologías
 
   El anterior enlace lo dirigirá al recurso visual que cargará la ontología almacenada en master/data/informatica.json.
   
-
-  Si desea visualizar una nueva ontología puede subir un archivo en formato JSON a través del menú Ontology -> Select ontology file.
+* Si desea visualizar una nueva ontología puede subir un archivo en formato JSON a través del menú Ontology -> Select ontology file.
 
   Puede seguir la plantilla de foromato para el archivo json visualizando los archivos de prueba en la carpeta master/data.
 
-
-  También puede crear o editar una ontología activando la opción Modes --> Editing. Esta función es experimental y puede ocasionar fallos en algunas ocasiones, se recomienda cargar los archivos de la ontología en su lugar.
+* También puede crear o editar una ontología activando la opción Modes --> Editing. Esta función es experimental y puede ocasionar fallos en algunas ocasiones, se recomienda cargar los archivos de la ontología en su lugar.
 
 ## Licencia
 
