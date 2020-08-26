@@ -14,10 +14,9 @@ Jonathan Steven Capera Quintana - 20202495005
 WebVOWL es una aplicación web para la visualización interactiva de ontologías. Implementa la notación visual para ontologías OWL (VOWL) al proporcionar representaciones gráficas de elementos del lenguaje de ontología web (OWL) que se combinan en un diseño de grafo dirigido que representa la ontología. Las técnicas de interacción permiten explorar la ontología y personalizar la visualización. Las visualizaciones de VOWL se generan automáticamente a partir de archivos JSON en los que se deben convertir las ontologías. Se proporciona un conversor OWL2VOWL basado en Java junto con WebVOWL.
 
 ## Instrucciones
+* Para acceder al recurso haga clic en el siguiente enlace:
 
-  - Para acceder al recurso haga clic en el siguiente enlace:
-
-  https://jocoolq.github.io/Informatica_y_otras_disciplinas/
+  * https://jocoolq.github.io/Informatica_y_otras_disciplinas/
 
   El anterior enlace lo dirigirá al recurso visual que cargará la ontología almacenada en master/data/informatica.json.
   
